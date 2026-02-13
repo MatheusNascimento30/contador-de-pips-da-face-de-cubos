@@ -8,7 +8,7 @@
 
 ## 📄 Sobre o Projeto
 
-Este projeto foi desenvolvido como parte da disciplina de **Processamento Digital de Imagens** na Universidade Federal de Sergipe (UFS). 
+Este projeto foi desenvolvido como parte da disciplina de **Processamento de Imagens** na Universidade Federal de Sergipe (UFS). 
 
 O objetivo principal é resolver o problema da contagem de pontos em dados de 6 faces sob diferentes condições de luz. Diferente de abordagens baseadas em Inteligência Artificial (Deep Learning), este projeto utiliza puramente **Morfologia Matemática** e **Processamento de Imagens Clássico**, o que torna o algoritmo extremamente leve e rápido.
 
@@ -112,4 +112,4 @@ Confira a explicação detalhada e o código em execução:
 - Curso: Ciência da Computação - UFS
 - Matrícula: [202300083810]
 
-*Projeto desenvolvido para a disciplina de Processamento Digital de Imagens.*
+*Projeto desenvolvido para a disciplina de Processamento de Imagens.*
