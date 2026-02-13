@@ -103,7 +103,7 @@ Abra o arquivo `solucao.ipynb` no VS Code.
 
 Confira a explicação detalhada e o código em execução:
 
-▶️ **[CLIQUE AQUI PARA ASSISTIR AO VÍDEO](#)**
+▶️ **[CLIQUE AQUI PARA ASSISTIR AO VÍDEO](https://youtu.be/FR2u25xdoy4)**
 
 ## 👥 Autor
 
